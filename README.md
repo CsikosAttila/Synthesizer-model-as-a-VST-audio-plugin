@@ -6,4 +6,5 @@ This is the end result of my Independent laboratory project.
 
 My sources: 
 Vesa Välimäki and Antti Huovilainen - Oscillator and Filter Algorithms for Virtual Analog Synthesis
+
 Tutorials form The Audio Programmer youtube channel
